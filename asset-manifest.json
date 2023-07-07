@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ChristianC81/cc-react-consume-api.git/static/css/main.7c350478.css",
+    "main.js": "/ChristianC81/cc-react-consume-api.git/static/js/main.8117f48e.js",
+    "static/media/primeicons.svg": "/ChristianC81/cc-react-consume-api.git/static/media/primeicons.8ba12f803b137699ee74.svg",
+    "static/media/open-sans-v15-latin-regular.svg": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-regular.1d0d8b66fa1da76d69b9.svg",
+    "static/media/open-sans-v15-latin-700.svg": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-700.926388f043fc8117b35b.svg",
+    "static/media/open-sans-v15-latin-300.svg": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-300.bb3b405a4608d51ddb13.svg",
+    "static/media/primeicons.eot": "/ChristianC81/cc-react-consume-api.git/static/media/primeicons.9868d68fa1bf5f4b6119.eot",
+    "static/media/primeicons.woff": "/ChristianC81/cc-react-consume-api.git/static/media/primeicons.42a056b9cc42634d97e2.woff",
+    "static/media/primeicons.ttf": "/ChristianC81/cc-react-consume-api.git/static/media/primeicons.e78e6d8e7dfc3a27e7ee.ttf",
+    "static/media/open-sans-v15-latin-700.ttf": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-700.ec32d6be7329ece0789c.ttf",
+    "static/media/open-sans-v15-latin-300.ttf": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-300.252a41f69d4c320154a1.ttf",
+    "static/media/open-sans-v15-latin-regular.ttf": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-regular.61747992dd9a412e601e.ttf",
+    "static/media/open-sans-v15-latin-700.woff": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-700.2509c35b0cfc629f81e5.woff",
+    "static/media/open-sans-v15-latin-300.woff": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-300.df17d4e30091735253a8.woff",
+    "static/media/open-sans-v15-latin-regular.woff": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-regular.87a454b233bedae23f8d.woff",
+    "static/media/open-sans-v15-latin-700.eot": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-700.75e0e55bdb3e82dcacf8.eot",
+    "static/media/open-sans-v15-latin-300.eot": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-300.2aeabc9e8ed0aef227d7.eot",
+    "static/media/open-sans-v15-latin-regular.eot": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-regular.a356e361ee6765f3d6d4.eot",
+    "static/media/open-sans-v15-latin-700.woff2": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-700.7435e6c2064f36f48626.woff2",
+    "static/media/open-sans-v15-latin-300.woff2": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-300.f2ebdee8c2343f558a02.woff2",
+    "static/media/open-sans-v15-latin-regular.woff2": "/ChristianC81/cc-react-consume-api.git/static/media/open-sans-v15-latin-regular.ec806460121999bcfb12.woff2",
+    "static/media/line.gif": "/ChristianC81/cc-react-consume-api.git/static/media/line.39c65dcc08f7edb347b6.gif",
+    "static/media/color.png": "/ChristianC81/cc-react-consume-api.git/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/ChristianC81/cc-react-consume-api.git/index.html",
+    "main.7c350478.css.map": "/ChristianC81/cc-react-consume-api.git/static/css/main.7c350478.css.map",
+    "main.8117f48e.js.map": "/ChristianC81/cc-react-consume-api.git/static/js/main.8117f48e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c350478.css",
+    "static/js/main.8117f48e.js"
+  ]
+}
