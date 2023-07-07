@@ -2,8 +2,7 @@ import axios from "axios";
 
 export class ProductService {
 
-    // baseUrl = "http://localhost:8080/api/products/";
-    baseUrl = "https://hg-rest-api.herokuapp.com/api/products/";
+    baseUrl = "https://cc-rest-api-c0b9d00a0e23.herokuapp.com/api/products/";
 
     create(product){
         return axios.post(this.baseUrl+"product/", product).then(res => res.data);

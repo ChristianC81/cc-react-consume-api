@@ -2,7 +2,7 @@
   "name": "ui-products",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://heroe-geek.github.io/react-consume-api",
+  "homepage": "https://christianc81.github.io/cc-react-consume-api/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -13,7 +13,7 @@
     "primereact": "^4.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^5.0.1",
     "react-transition-group": "^4.4.1"
   },
   "scripts": {
